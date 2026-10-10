@@ -17,6 +17,22 @@
         "bytes": 4395501
       },
       "contentOrigin": "original"
+    },
+    {
+      "packId": "original-students-protest-001",
+      "revision": 1,
+      "title": "Why do students protest? | Everyday English Lab",
+      "contentOrigin": "original",
+      "pack": {
+        "path": "original-students-protest-pack-v1.json",
+        "sha256": "d61634e4e5dd11240fde826f26a22dd7053200106e98c6be99c8aabfaa59ad3e",
+        "bytes": 25625
+      },
+      "audio": {
+        "path": "original-students-protest.mp3",
+        "sha256": "a988fba4eb77c7a0c3e2226c8d12aa4159979cd801817ebcf4fde1141c4ac9da",
+        "bytes": 6133677
+      }
     }
   ]
 }
