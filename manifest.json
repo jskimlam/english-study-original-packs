@@ -1,0 +1,22 @@
+{
+  "format": "english-study-catalog",
+  "schemaVersion": 1,
+  "episodes": [
+    {
+      "packId": "original-procrastination-001",
+      "revision": 1,
+      "title": "Why do we procrastinate? | Everyday English Lab",
+      "pack": {
+        "path": "original-procrastination-pack-v1.json",
+        "sha256": "294e3ad181e697ab4ab9803b7f36e7839a9749756030b8cf3e024814878ca6a7",
+        "bytes": 22460
+      },
+      "audio": {
+        "path": "original-procrastination.mp3",
+        "sha256": "6f15f367982eae04dfcec2030bbaf5164203342495c0dafa0a8dec068cfac24c",
+        "bytes": 4395501
+      },
+      "contentOrigin": "original"
+    }
+  ]
+}
